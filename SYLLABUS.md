@@ -34,8 +34,8 @@ Email: [williamrudisill@u.boisestate.edu](williamrudisill@u.boisestate.edu)
 ### Outside of Class:
 * You are expected to read all emails and announcements.  
 * The class reading/lecture/homework/exam schedule will be updated on Canvas.  It is your responsibility to make sure you are staying up to date.
-* Come prepared for class by watching the assigned online lectures. <u>Online quizzes</u> are due prior to the designated class period.  (See grading section for details.)
-* If you need help, get it now!  I am always willing to meet with you and go over questions or concerns. <u>Do not wait until the end of the semester.</u>
+* Come prepared for class by watching the assigned online lectures. ***Online quizzes*** are due prior to the designated class period.  (See grading section for details.)
+* If you need help, get it now!  I am always willing to meet with you and go over questions or concerns. ***Do not wait until the end of the semester.***
 
 ### Academic Dishonesty:
 
