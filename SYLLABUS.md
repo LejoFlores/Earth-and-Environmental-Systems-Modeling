@@ -1,7 +1,9 @@
+<p style="text-align: center;">
 # Syllabus
 
 ## GEOS 518: Modeling Earth and Environmental Systems
 ## Fall 2021
+</p>
 
 ### Instructor:
 Dr. Alejandro (Lejo) Flores  
