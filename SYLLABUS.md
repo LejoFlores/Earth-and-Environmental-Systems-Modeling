@@ -1,9 +1,4 @@
-<p align="center">
-<b>Syllabus<br></b>
-GEOS 518: Modeling Earth and Environmental Systems (Fall 2021)
-</p>
-
-
+# Syllabus<br>GEOS 518: Modeling Earth and Environmental Systems (Fall 2021)
 
 --- 
 
