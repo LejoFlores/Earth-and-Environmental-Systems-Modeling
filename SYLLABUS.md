@@ -1,6 +1,6 @@
-<p align="center">
-  <h1>Syllabus</h1>
-  <h2>GEOS 518: Modeling Earth and Environmental Systems (Fall 2021)</h2>
+<p align="center" font-size: 2.5em>
+Syllabus
+GEOS 518: Modeling Earth and Environmental Systems (Fall 2021)
 </p>
 
 
