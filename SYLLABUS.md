@@ -9,32 +9,33 @@ Office Hours: (via Zoom: see Canvas for link)
 Email: [lejoflores@boisestate.edu](lejoflores@boisestate.edu)  
 
 ### Teaching Assistant:
-William Rudisill
-Office Hours: (via Zoom: see Canvas for link)
-Email: [williamrudisill@u.boisestate.edu](williamrudisill@u.boisestate.edu)
+William Rudisill  
+Office Hours: (via Zoom: see Canvas for link)  
+Email: [williamrudisill@u.boisestate.edu](williamrudisill@u.boisestate.edu)  
 
 ---
 
-#### Course Description
+### Course Description
 
 
-#### Required Materials
+### Required Materials
 
-#### Course Expectations
+### Course Expectations
 
-#### Computer Access:
+### Computer Access:
 
-#### Attendance:
-
-
-#### Outside of Class:
+### Attendance:
 
 
-#### Academic Dishonesty:
+### Outside of Class:
 
 
-#### Accommodations for Students with Disabilities
+### Academic Dishonesty:
 
+
+### Accommodations for Students with Disabilities:
+
+### COVID-19 Guidelines:
 
 ---
 
@@ -48,4 +49,8 @@ Email: [williamrudisill@u.boisestate.edu](williamrudisill@u.boisestate.edu)
 | Jupyter Notebook Assignments | 60% |
 | Module-end Reflection | 5% |
 | Modeling Project Markdown | 20% |
+
+### <u>Online Reading Quizzes</u>
+
+
 
