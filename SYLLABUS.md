@@ -41,5 +41,5 @@ Email: [williamrudisill@u.boisestate.edu](williamrudisill@u.boisestate.edu)
 ---
 
 <p align="center">
-**Grading Summary** (proportions may vary by up to 5%)
+__Grading Summary__ (proportions may vary by up to 5%)
 </p>
