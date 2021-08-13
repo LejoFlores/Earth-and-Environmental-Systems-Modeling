@@ -38,11 +38,10 @@ Email: [williamrudisill@u.boisestate.edu](williamrudisill@u.boisestate.edu)
 * If you need help, get it now!  I am always willing to meet with you and go over questions or concerns. ***Do not wait until the end of the semester.***
 
 ### Academic Dishonesty:
-Cheating or plagiarism in any form is unacceptable. All work submitted by a student must represent their own ideas, concepts, and current understanding. Beware the internet; if you can find it, so can your professor. Academic dishonesty also includes submitting substantial portions of the same academic coursework to more than one course for credit without prior permission of the instructor(s). For more information, consult the Boise State Student Conduct Code: []()
+Cheating or plagiarism in any form is unacceptable. All work submitted by a student must represent their own ideas, concepts, and current understanding. Beware the internet; if you can find it, so can your professor. Academic dishonesty also includes submitting substantial portions of the same academic coursework to more than one course for credit without prior permission of the instructor(s). Please be aware of your rights and responsibilities as a student by reviewing the Boise State Student Code of Conduct: [https://www.boisestate.edu/policy/student-affairs/code-of-conduct/](https://www.boisestate.edu/policy/student-affairs/code-of-conduct/)
 
-
-### Accommodations for Students with Disabilities:
-Students are encouraged to contact the proper resource as early as possible (BSU Disability Resource Center; http://drc.boisestate.edu/; 426-1583).The Office of Disability Services assists Boise State staff and faculty in meeting accommodations mandated by Federal and State law and University policy.  The office works to identify and document physical disabilities or learning disabilities and to identify the appropriate accommodation for a student in his or her courses.
+### Educational Access for All Students:
+Students with additional educational and access needs are encouraged to contact the proper resource as early as possible (Boise State Educational Access Center; [https://www.boisestate.edu/eac/](https://www.boisestate.edu/eac/)). The EAC assists Boise State staff and faculty in meeting accommodations mandated by Federal and State law and University policy. They will work with you to identify and document physical and learning needs and identify  appropriate accommodations for a student in their courses.
 
 
 ### COVID-19 Guidelines:
