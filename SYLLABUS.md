@@ -58,6 +58,8 @@ Students with additional educational and access needs are encouraged to contact 
 | Modeling Project | 20% |
 
 #### Online Reading Quizzes (15%)
+Quizzes are... 
+Each quiz is 10 questions and you will have 20 minutes to complete each quiz. You may take each quiz twice, but the recorded score will always be the final score (i.e., not the highest - think about whether you really want to retake the quiz to get 1 additional point). Quizzes are open-book but not collaborative. You are responsible for checking the schedule on Blackboard and keeping up with deadlines.  Make sure you are using a reliable Internet connection.  You are allowed one attempt at each quiz.  Your lowest quiz score will be dropped before final grades are calculated.  
 
 #### Jupyter notebook Assignments (60%)
 
