@@ -43,3 +43,11 @@ Email: [williamrudisill@u.boisestate.edu](williamrudisill@u.boisestate.edu)
 <p align="center">
   <b>Grading Summary</b> (proportions may vary by up to 5%)
 </p>
+
+| Component | Proportion of Grade |
+| --- | --- |
+| Online Reading Quizzes | 15% |
+| Jupyter Notebook Assignments | 60% |
+| Module-end Reflection | 5% |
+| Modeling Project Markdown | 20% |
+
