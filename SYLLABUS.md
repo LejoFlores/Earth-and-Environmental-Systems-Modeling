@@ -12,3 +12,34 @@ Email: [lejoflores@boisestate.edu](lejoflores@boisestate.edu)
 
 ### Teaching Assistant:
 William Rudisill
+Office Hours: (via Zoom: see Canvas for link)
+Email: [williamrudisill@u.boisestate.edu](williamrudisill@u.boisestate.edu)
+
+---
+
+#### Course Description
+
+
+#### Required Materials
+
+#### Course Expectations
+
+#### Computer Access:
+
+#### Attendance:
+
+
+#### Outside of Class:
+
+
+#### Academic Dishonesty:
+
+
+#### Accommodations for Students with Disabilities
+
+
+---
+
+<p align="center">
+**Grading Summary** (proportions may vary by up to 5%)
+</p>
