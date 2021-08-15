@@ -16,12 +16,12 @@ Email: [williamrudisill@u.boisestate.edu](williamrudisill@u.boisestate.edu)
 ---
 
 ### Course Description:
-
+Computational models are tools used to describe, predict, and reveal new understanding about Earth and environmental systems. Develops the mindset and skills needed to apply, develop, and diagnose models of Earth and environmental processes. Knowledge and skills developed allow students to appraise existing models in the context of specific problems. Particular attention is paid to modeling hydrologic, geomorphic, atmospheric, critical zone, and ecological processes.
 
 ### Required Textbook:
 The following textbook is required for the class. It is fairly easy to find and reasonably priced: 
 
-_Slingerland, Rudy and Kump, Lee_ (2011), Mathematical Modeling of Earth's Dynamical Systems: A Primer, Princeton University Press, 248 pp. | [Buy on Bookstore.org](https://bookshop.org/books/mathematical-modeling-of-earth-s-dynamical-systems-a-primer/9780691145143) | [Buy on Amazon.com](https://www.amazon.com/Mathematical-Modeling-Earths-Dynamical-Systems/dp/0691145148) | 
+ * _Slingerland, Rudy and Kump, Lee_ (2011), Mathematical Modeling of Earth's Dynamical Systems: A Primer, Princeton University Press, 248 pp. | [Buy on Bookstore.org](https://bookshop.org/books/mathematical-modeling-of-earth-s-dynamical-systems-a-primer/9780691145143) | [Buy on Amazon.com](https://www.amazon.com/Mathematical-Modeling-Earths-Dynamical-Systems/dp/0691145148) | 
 
 ### Computer Access:
 Being a numerical modeling class, access to computing resources is critical. Ideally, you would have access to a laptop computing that has internet access and on which you can install the required computing tools (`Python`, `JupyterLab`, and `git`, ideally via a package manager like `conda`). I acknowledge, however, that as Graduate Students your ability to procure a laptop that you can bring to class may be limited. If you need help finding access to a laptop for class, please contact me. There are a number of ways I can help. Chromebooks are potentially an option, but you will need to use Jupyter in cloud computing environment like    
@@ -93,7 +93,7 @@ You will also have a modeling project for the class. The purpose of this modelin
 --- 
 
 ### Course Learning Outcomes
-At the end of this class, you will be able to:
+Below are the Course Learning Outcomes (CLO) that we will achieve in the class. Click the triangle to expand each CLO to see supporting module-level learning objectives. At the end of this class, you will be able to:
 
 <details>
 <summary>1. Explain key steps and considerations in the choice and use of a numerical model for a scientific/engineering application</summary>
