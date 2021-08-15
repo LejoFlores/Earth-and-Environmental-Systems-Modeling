@@ -201,6 +201,32 @@ Below are the Course Learning Outcomes (CLO) that we will achieve in the class. 
   </tbody>
 </table>
 
+#### Module-end Reflection
+
+<table>
+  <thead>
+    <tr>
+      <th>Criteria</th>
+      <th colspan="6">Ratings</th>
+      <th>Points</th>
+    </tr>
+  </thead>
+  <tbody> 
+    <tr>
+      <td valign="top"><b>Content</b><br></td> 
+      <td valign="top"><b>5 pts<br>Excellent</b><br>Reflection is thoughtful and answers all prompts.</td> 
+      <td valign="top"><b>4 pts<br>Very Good</b><br>Reflection is thoughtful and answers almost all prompts.</td>
+      <td valign="top"><b>3 pts<br>Good</b><br>Reflection may be cursory and may not address one or more prompts.</td>
+      <td valign="top"><b>2 pts<br>Fair</b><br>Reflection is cursory, but in full sentences, and does not address prompts.</td>
+      <td valign="top"><b>1 pts<br>Poor</b><br>Reflection is incomplete and not in complete sentences.</td>
+      <td valign="top"><b>0 pts<br>Not Submitted</b>Reflection not completed</td>
+      <td valign="top">5 pts</td>
+    </tr>
+    <tr>
+      <td align="right" colspan="8"><b>Total Points: 5</b></td>
+    </tr>
+  </tbody>
+</table>
 
 #### Modeling Term Project
 
