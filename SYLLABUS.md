@@ -104,6 +104,7 @@ At the end of this class, you will be able to:
   1.4 Define a conceptual model in terms of how it represents underlying processes  
  
 </details> 
+
 2. Describe the necessity, process, and methods of model evaluation and calibration
 3. Design, build, and evaluate functional numerical models of some common physical processes 
 4. Develop and use effective scientific software development tools and habits
