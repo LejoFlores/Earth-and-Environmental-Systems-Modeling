@@ -162,9 +162,9 @@ Below are the Course Learning Outcomes (CLO) that we will achieve in the class. 
 
 ---
 
-### Grading Rubrics
+## Grading Rubrics
 
-#### Programming Assignments
+### Programming Assignments
 
 <table>
   <thead>
@@ -201,7 +201,7 @@ Below are the Course Learning Outcomes (CLO) that we will achieve in the class. 
   </tbody>
 </table>
 
-#### Module-end Reflection
+### Module-end Reflection
 
 <table>
   <thead>
@@ -228,7 +228,7 @@ Below are the Course Learning Outcomes (CLO) that we will achieve in the class. 
   </tbody>
 </table>
 
-#### Modeling Term Project
+### Modeling Term Project
 
 <table>
   <thead>
