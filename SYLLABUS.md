@@ -98,10 +98,10 @@ At the end of this class, you will be able to:
 <details>
 <summary>1. Explain key steps and considerations in the choice and use of a numerical model for a scientific/engineering application</summary>
  
- 1.1 Differentiate between statistical and dynamical models
- 1.2 List different applications for which a model is used 
- 1.3 Explain the concept of parsimony in the context of modeling
- 1.4 Define a conceptual model in terms of how it represents underlying processes
+  1.1 Differentiate between statistical and dynamical models  
+  1.2 List different applications for which a model is used  
+  1.3 Explain the concept of parsimony in the context of modeling  
+  1.4 Define a conceptual model in terms of how it represents underlying processes  
  
 </details> 
 2. Describe the necessity, process, and methods of model evaluation and calibration
