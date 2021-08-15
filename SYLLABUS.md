@@ -107,34 +107,57 @@ At the end of this class, you will be able to:
   * Identify input variables to a model that are fixed in time (parameters)
   * Identify input variables to a model that vary with time (forcings) 
   * Articulate the benefits and drawbacks of model complexification
-  * Describe the difference between a boundary and initial value problem
-  * Define and distinguish between a flux and level boundary condition
-  * Define initial condition
  
 </details> 
 
 <details>
 <summary>2. Describe the necessity, process, and methods of model evaluation and calibration</summary>
 
+  * Describe the concept of model calibration
+  * List several alternative methods of quantifying model goodness-of-fit
+  * Define equifinality and describe how it influences Earth/Environmental systems modeling
+  * List some statistical measures useful for analyzing model outputs
+  * Identify what parameters of a model need to or could be calibrated
+  * Define the concept of Pareto optimality
+  * Define data assimilation and list applications where it might be useful
 
 </details> 
 
 <details>
 <summary>3. Design, build, and evaluate functional numerical models of some common physical processes</summary>
 
+  * Describe the difference between a boundary and initial value problem
+  * Define and distinguish between a flux and level boundary condition
+  * Define initial condition
+  * Define boundary condition
+  * Explain the principles underlying chaos or sensitive dependence to initial conditions
+  * List several processes that could be approximated as a diffusive process
+  * Create a model that solves the diffusion equation
+  * List several processes that could be approximated as an advection process
+  * Create a model that solves the advection equation
+  * List several processes that could be approximated as an advection-dispersion process
+  * Create a model that solves the advection-dispersion equation
 
 </details> 
 
 <details>
 <summary>4. Develop and use effective scientific software development tools and habits</summary>
 
+  * Create a jupyter notebook to demonstrate a modeling workflow
+  * Use a version control system to track changes in source code
+  * Use GitHub to submit an assignment as a Jupyter notebook
  
 </details> 
-
  
 <details>
 <summary>5. Examine and report on key facets of an existing model of a system or process of interest</summary>
 
+  * Find an existing model of an Earth/Environmental System and identify key details
+  * Classify the kind of Earth/Environmental model in terms of it's relation to underlying processes
+  * Describe how a particular model represents underlying processes
+  * List specific data sources and repositories where input data for a selected model can be found
+  * Design a numerical experiment to test a hypothesis
+  * List where to obtain data required as input to a selected model
  
 </details> 
 
