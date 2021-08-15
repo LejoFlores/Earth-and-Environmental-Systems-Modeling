@@ -98,23 +98,43 @@ At the end of this class, you will be able to:
 <details>
 <summary>1. Explain key steps and considerations in the choice and use of a numerical model for a scientific/engineering application</summary>
  
-* Differentiate between statistical and dynamical models  
-* List different applications for which a model is used  
-* Explain the concept of parsimony in the context of modeling  
-* Define a conceptual model in terms of how it represents underlying processes  
-* Draw an environmental system in terms of storage and flux variables
-* Write down the system of equations that describe a model
-* Identify input variables to a model that are fixed in time (parameters)
-* Identify input variables to a model that vary with time (forcings) 
-* Articulate the benefits and drawbacks of model complexification
-* Describe the difference between a boundary and initial value problem
-* Define and distinguish between a flux and level boundary condition
-* Define initial condition
+  * Differentiate between statistical and dynamical models  
+  * List different applications for which a model is used  
+  * Explain the concept of parsimony in the context of modeling  
+  * Define a conceptual model in terms of how it represents underlying processes  
+  * Draw an environmental system in terms of storage and flux variables
+  * Write down the system of equations that describe a model 
+  * Identify input variables to a model that are fixed in time (parameters)
+  * Identify input variables to a model that vary with time (forcings) 
+  * Articulate the benefits and drawbacks of model complexification
+  * Describe the difference between a boundary and initial value problem
+  * Define and distinguish between a flux and level boundary condition
+  * Define initial condition
  
 </details> 
 
-2. Describe the necessity, process, and methods of model evaluation and calibration
-3. Design, build, and evaluate functional numerical models of some common physical processes 
-4. Develop and use effective scientific software development tools and habits
-5. Examine and report on key facets of an existing model of a system or process of interest
+<details>
+<summary>2. Describe the necessity, process, and methods of model evaluation and calibration</summary>
+
+
+</details> 
+
+<details>
+<summary>3. Design, build, and evaluate functional numerical models of some common physical processes</summary>
+
+
+</details> 
+
+<details>
+<summary>4. Develop and use effective scientific software development tools and habits</summary>
+
+ 
+</details> 
+
+ 
+<details>
+<summary>5. Examine and report on key facets of an existing model of a system or process of interest</summary>
+
+ 
+</details> 
 
