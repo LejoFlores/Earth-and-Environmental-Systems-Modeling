@@ -176,13 +176,13 @@ Below are the Course Learning Outcomes (CLO) that we will achieve in the class. 
   </thead>
   <tbody> 
     <tr>
-      <td valign="top">Completeness<br>Describes the extent to which the assignment answered the questions in the assignment.</td> 
-      <td valign="top"><b>25 pts Complete</b><br>Submission answered all questions.</td> 
-      <td valign="top"><b>20 pts Almost Complete</b><br>Submission answered ≥90% of questions assigned.</td>
-      <td valign="top"><b>15 pts Substantially Incomplete</b><br>Submission answered ≥70% of questions assigned.</td>
-      <td valign="top"><b>10 pts Incomplete</b><br>Submission answered <70% of questions assigned.</td>
-      <td valign="top"><b>5 pts No Submission w/Notice</b><br>Student notified instructors of a non-submission 48hrs in advance of due date.</td>
-      <td valign="top"><b>0 pts No Submission</b></td>
+      <td valign="top"><b>Completeness:</b><br>Describes the extent to which the assignment answered the questions in the assignment.</td> 
+      <td valign="top"><b>25 pts<br>Complete</b><br>Submission answered all questions.</td> 
+      <td valign="top"><b>20 pts<br>Almost Complete</b><br>Submission answered ≥90% of questions assigned.</td>
+      <td valign="top"><b>15 pts<br>Substantially Incomplete</b><br>Submission answered ≥70% of questions assigned.</td>
+      <td valign="top"><b>10 pts<br>Incomplete</b><br>Submission answered <70% of questions assigned.</td>
+      <td valign="top"><b>5 pts<br>No Submission w/Notice</b><br>Student notified instructors of a non-submission 48hrs in advance of due date.</td>
+      <td valign="top"><b>0 pts<br>No Submission</b></td>
       <td valign="top">25 pts</td>
     </tr>
   </tbody>
