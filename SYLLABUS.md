@@ -88,14 +88,22 @@ The most significant part of your grade will be based on programming assignments
 At the end of each module of the class (there are approximately 9 modules) there is a short reflection that you will be required to complete. The reflection takes the form of 3 questions to which you will respond in Canvas. The reflection is designed as a prompt to pause, actively reflect on things like what you learned/struggled with/improved on during the module activities (e.g., reading, lecture, assignments, etc.) and record them. If you invest in them, these reflections can be invaluable tools for you to assess your own learning progress and ensure that you are getting what you need/want out of the class. Responses to reflection prompts need not be long, but should be thoughtful and authentic.   
 
 #### Modeling Project (20%)
-You will also have a modeling project for the class. The purpose of this modeling project is for you to explore an existing model of interest to your professional development and/or research. During this project you will: (1) select a model for further study, (2) examine key details of the Earth and environmental processes that it models in the context of topics we cover in the class, (3) review the data needed to characterize initial and boundary conditions for the model, (4) investigate procedures and data needs for calibration/validation, and (5) design a numerical experiment to test a scientific hypothesis or perform a specific analysis. ___You will not need to setup, run, or perform your numerical experiment as a requirement of the project.___ However, this project could be a valuable tool to kickstart any modeling activities required for your thesis or dissertation. As such, I ___highly___ encourage you to consult with your advisor(s) and me when choosing a model. This project will be submitted as a Markdown (`PROJECT.md`) file in your GitHub repository for the class.   
+You will also have a modeling project for the class. The purpose of this modeling project is for you to explore an existing model of interest to your professional development and/or research. During this project you will: (1) select a model for further study, (2) examine key details of the Earth and environmental processes that it models in the context of topics we cover in the class, (3) review the data needed to characterize initial and boundary conditions for the model, (4) investigate procedures and data needs for calibration/validation, and (5) design a numerical experiment to test a scientific hypothesis or perform a specific analysis. ___You will not need to setup, run, or perform your numerical experiment as a requirement of the project.___ However, this project could be a valuable tool to kickstart any modeling activities required for your thesis or dissertation. As such, I ___highly___ encourage you to consult with your advisor(s) and me when choosing a model. This project will be submitted as a Markdown (e.g., `PROJECT.md`) file in your GitHub repository for the class.   
 
 --- 
 
 ### Course Learning Outcomes
 At the end of this class, you will be able to:
 
-1. Explain key steps and considerations in the choice and use of a numerical model for a scientific/engineering application 
+<details>
+<summary>1. Explain key steps and considerations in the choice and use of a numerical model for a scientific/engineering application</summary>
+ 
+ 1.1 Differentiate between statistical and dynamical models
+ 1.2 List different applications for which a model is used 
+ 1.3 Explain the concept of parsimony in the context of modeling
+ 1.4 Define a conceptual model in terms of how it represents underlying processes
+ 
+</details> 
 2. Describe the necessity, process, and methods of model evaluation and calibration
 3. Design, build, and evaluate functional numerical models of some common physical processes 
 4. Develop and use effective scientific software development tools and habits
