@@ -6,6 +6,6 @@ This is the GitHub repository for the Fall 2021 instance of GEOS 518: Modeling E
 
 Important resources in this repo include:
 
-* The course [syllabus](./syllabus.md)
+* The course [syllabus](./SYLLABUS.md)
 
 
