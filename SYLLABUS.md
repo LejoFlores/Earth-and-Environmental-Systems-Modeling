@@ -200,3 +200,66 @@ Below are the Course Learning Outcomes (CLO) that we will achieve in the class. 
     </tr>
   </tbody>
 </table>
+
+
+#### Modeling Term Project
+
+<table>
+  <thead>
+    <tr>
+      <th>Criteria</th>
+      <th colspan="5">Ratings</th>
+      <th>Points</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top"><b>Introduction</b></td> 
+      <td valign="top"><b>20 pts<br>Excellent</b><br>Describes the scientific or engineering modeling challenge concisely. The challenge described is contemporarily relevant. References includes are relevant, contemporary, and appropriate.</td>
+      <td valign="top"><b>15 pts<br>Very Good</b><br>Describes the scientific or engineering modeling challenge concisely. The challenge described is relevant. References includes are relevant and appropriate.</td>
+      <td valign="top"><b>10 pts<br>Good</b><br>Describes the scientific or engineering modeling challenge. There may be some mismatch between the challenge and the model relevance. May be poorly referenced.</td>
+      <td valign="top"><b>5 pts<br>Fair</b><br>Scientific or engineering modeling challenge is poorly describe, not relevant, or not contemporary. References are either inappropriate to the problem or not included.</td>
+      <td valign="top"><b>0 pts<br>Poor</b>It is not clear that what is submitted is an introduction</td>
+      <td valign="top">20 pts</td>
+    </tr>
+    <tr>
+      <td valign="top"><b>Model Description</b></td> 
+      <td valign="top"><b>20 pts<br>Excellent</b><br>Description of model is concise, accurate, and clearly linked to processes. Uses of the model for similar applications are described and referenced. A conceptual figure is present and appropriately cited.</td>
+      <td valign="top"><b>15 pts<br>Very Good</b><br>Description of model is concise, accurate, and clearly linked to processes. Uses of the model for similar applications may be absent. A conceptual figure is missing or not cited.</td>
+      <td valign="top"><b>10 pts<br>Good</b><br>Model may not be described concisely, accurately, or linked to processes. Uses of the model for similar applications are missing. No conceptual figure.</td>
+      <td valign="top"><b>5 pts<br>Fair</b><br>Model is not described in ways that clearly link it to scientific application.</td>
+      <td valign="top"><b>0 pts<br>Poor</b>Model description is missing.</td>
+      <td valign="top">20 pts</td>
+    </tr>
+    <tr>
+      <td valign="top"><b>Data Needs</b></td> 
+      <td valign="top"><b>20 pts<br>Excellent</b><br>Needs for input data and description of output data format are clearly described in terms of format and type. Appropriate sources of input datasets are provided.</td>
+      <td valign="top"><b>15 pts<br>Very Good</b><br>Input data needs and output data are clearly described in terms of format and type. Appropriate sources of input datasets may be missing.</td>
+      <td valign="top"><b>10 pts<br>Good</b><br>Input data needs and output data are described, but may be unclear. Appropriate sources of input datasets are missing.</td>
+      <td valign="top"><b>5 pts<br>Fair</b><br>Input data needs and output data are unclear or missing in parts. Appropriate sources of input datasets are missing.</td>
+      <td valign="top"><b>0 pts<br>Poor</b>Data needs not specified.</td>
+      <td valign="top">20 pts</td>
+    </tr>
+    <tr>
+      <td valign="top"><b>Calibration</b></td> 
+      <td valign="top"><b>20 pts<br>Excellent</b><br>Variables requiring calibration that are appropriate to the problem identified. Target variables and observational datasets are identified. Prior appropriate calibration studies are referenced.</td>
+      <td valign="top"><b>15 pts<br>Very Good</b><br>Variables requiring calibration that are appropriate to the problem identified. Target variables and observational datasets are identified.</td>
+      <td valign="top"><b>10 pts<br>Good</b><br>Variables requiring calibration that are appropriate to the problem identified. Target variables are identified. Observational datasets used in calibration not identified.</td>
+      <td valign="top"><b>5 pts<br>Fair</b><br>Variables requiring calibration are identified but are not appropriate to the problem. Target variables and observational datasets not identified or inappropriate.</td>
+      <td valign="top"><b>0 pts<br>Poor</b>Calibration of model not discussed or most details absent.</td>
+      <td valign="top">20 pts</td>
+    </tr>  
+    <tr>
+      <td valign="top"><b>Numerical Experiment Design</b></td> 
+      <td valign="top"><b>20 pts<br>Excellent</b><br>Numerical experiment is well designed, appropriate to the problem, and its rationale described. The experiment may extend other, referenced studies.</td>
+      <td valign="top"><b>15 pts<br>Very Good</b><br>Numerical experiment is well designed, appropriate to the problem, although its rationale may be lacking. The experiment may extend other, unreferenced studies.</td>
+      <td valign="top"><b>10 pts<br>Good</b><br>Numerical experiment design is unclear or appears unconnected to the problem, Rationale may be unclear.</td>
+      <td valign="top"><b>5 pts<br>Fair</b><br>Numerical experiment design is poorly designed and unconnected to the problem, Rationale is missing.</td>
+      <td valign="top"><b>0 pts<br>Poor</b>Numerical experiment design is missing.</td>
+      <td valign="top">20 pts</td>
+    </tr>
+    <tr>
+      <td align="right" colspan="7"><b>Total Points:100</b></td>
+    </tr>
+  </tbody>
+</table>
