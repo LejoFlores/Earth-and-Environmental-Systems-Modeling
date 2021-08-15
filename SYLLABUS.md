@@ -98,10 +98,18 @@ At the end of this class, you will be able to:
 <details>
 <summary>1. Explain key steps and considerations in the choice and use of a numerical model for a scientific/engineering application</summary>
  
-&nbsp;&nbsp;&nbsp;&nbsp;1.1 Differentiate between statistical and dynamical models  
-&nbsp;&nbsp;&nbsp;&nbsp;1.2 List different applications for which a model is used  
-&nbsp;&nbsp;&nbsp;&nbsp;1.3 Explain the concept of parsimony in the context of modeling  
-&nbsp;&nbsp;&nbsp;&nbsp;1.4 Define a conceptual model in terms of how it represents underlying processes  
+* Differentiate between statistical and dynamical models  
+* List different applications for which a model is used  
+* Explain the concept of parsimony in the context of modeling  
+* Define a conceptual model in terms of how it represents underlying processes  
+* Draw an environmental system in terms of storage and flux variables
+* Write down the system of equations that describe a model
+* Identify input variables to a model that are fixed in time (parameters)
+* Identify input variables to a model that vary with time (forcings) 
+* Articulate the benefits and drawbacks of model complexification
+* Describe the difference between a boundary and initial value problem
+* Define and distinguish between a flux and level boundary condition
+* Define initial condition
  
 </details> 
 
