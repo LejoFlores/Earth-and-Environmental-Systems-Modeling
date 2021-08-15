@@ -3,13 +3,13 @@
 --- 
 
 ### Instructor:
-Dr. Alejandro (Lejo) Flores (he/him)
+Dr. Alejandro (Lejo) Flores (he/him)  
 Phone: 208.426.2903  
 Office Hours: (via Zoom: see Canvas for link)  
 Email: [lejoflores@boisestate.edu](lejoflores@boisestate.edu)  
 
 ### Teaching Assistant:
-William Rudisill (he/him)
+William Rudisill (he/him)  
 Office Hours: (via Zoom: see Canvas for link)  
 Email: [williamrudisill@u.boisestate.edu](williamrudisill@u.boisestate.edu)  
 
