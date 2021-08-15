@@ -188,7 +188,7 @@ Below are the Course Learning Outcomes (CLO) that we will achieve in the class. 
     <tr>
       <td valign="top"><b>Correctness:</b><br>Describes the extent to which the assignment arrives at the correct answer to assigned questions.</td> 
       <td valign="top"><b>25 pts<br>Exemplary</b><br>Results are correct and clearly presented; charts are well-labeled and appropriate; explanatory text clearly and concisely tells the story with appropriate context and analysis; organization makes it easy to review.</td> 
-      <td valign="top"><b>20 pts<br>The assignment comes to correct (or defensible) results and conclusions, but the presentation is not easy to follow and/or portions are not clear or lack context or labels.</td>
+      <td valign="top"><b>20 pts<br>Basically Correct</b><br>The assignment comes to correct (or defensible) results and conclusions, but the presentation is not easy to follow and/or portions are not clear or lack context or labels.</td>
       <td valign="top"><b>15 pts<br>Right Idea</b><br>The approach is appropriate, but the work has mistakes in code, analysis, or presentation that undermine the correctness of conclusions.</td>
       <td valign="top"><b>10 pts<br>Solid Start</b><br>The work makes a good start, but has fundamental conceptual problems in code, analysis, or presentation such that it will not produce legitimate results.</td>
       <td valign="top"><b>5 pts<br>Did Something</b><br>The solution began an attempt, but is either insufficiently complete to assess correctness or is on entirely the wrong track.</td>
