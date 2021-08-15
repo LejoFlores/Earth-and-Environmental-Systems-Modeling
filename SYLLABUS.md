@@ -167,19 +167,23 @@ Below are the Course Learning Outcomes (CLO) that we will achieve in the class. 
 #### Programming Assignments
 
 <table>
-  <tr>
-    <td>Criteria</td>
-    <td colspan="6">Ratings</td>
-    <td>Points</td>
-  </tr>
-  <tr>
-    <td>Completeness<br>Describes the extent to which the assignment answered the questions in the assignment.</td> 
-    <td><b>25 pts Complete</b><br>Submission answered all questions.</td> 
-    <td><b>20 pts Almost Complete</b><br>Submission answered ≥90% of questions assigned.</td>
-    <td><b>15 pts Substantially Incomplete</b><br>Submission answered ≥70% of questions assigned.</td>
-    <td><b>10 pts Incomplete</b><br>Submission answered <70% of questions assigned.</td>
-    <td><b>5 pts No Submission w/Notice</b><br>Student notified instructors of a non-submission 48hrs in advance of due date.</td>
-    <td><b>0 pts No Submission</b></td>
-    <td>25 pts</td>
-  </tr>
+  <thead>
+    <tr>
+      <th>Criteria</th>
+      <th colspan="6">Ratings</th>
+      <th>Points</th>
+    </tr>
+  </thead>
+  <tbody> 
+    <tr>
+      <td valign="top">Completeness<br>Describes the extent to which the assignment answered the questions in the assignment.</td> 
+      <td valign="top"><b>25 pts Complete</b><br>Submission answered all questions.</td> 
+      <td valign="top"><b>20 pts Almost Complete</b><br>Submission answered ≥90% of questions assigned.</td>
+      <td valign="top"><b>15 pts Substantially Incomplete</b><br>Submission answered ≥70% of questions assigned.</td>
+      <td valign="top"><b>10 pts Incomplete</b><br>Submission answered <70% of questions assigned.</td>
+      <td valign="top"><b>5 pts No Submission w/Notice</b><br>Student notified instructors of a non-submission 48hrs in advance of due date.</td>
+      <td valign="top"><b>0 pts No Submission</b></td>
+      <td valign="top">25 pts</td>
+    </tr>
+  </tbody>
 </table>
