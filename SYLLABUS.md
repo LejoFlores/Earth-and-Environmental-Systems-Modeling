@@ -164,6 +164,8 @@ Below are the Course Learning Outcomes (CLO) that we will achieve in the class. 
 
 ## Grading Rubrics
 
+Below are the grading rubrics for the Jupyter notebook assignments, module-end reflections, and modeling term project are provided below. Although each of these assessments are associated with point totals, the total points will be re-weighted at the end of the semester to compute your final grade in the proportions listed above in the __Grading Summary__ section. 
+
 ### Programming Assignments
 
 <table>
