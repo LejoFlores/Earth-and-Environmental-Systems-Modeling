@@ -160,3 +160,134 @@ Below are the Course Learning Outcomes (CLO) that we will achieve in the class. 
  
 </details> 
 
+---
+
+## Grading Rubrics
+
+Below are the grading rubrics for the Jupyter notebook assignments, module-end reflections, and modeling term project are provided below. Although each of these assessments are associated with point totals, the total points will be re-weighted at the end of the semester to compute your final grade in the proportions listed above in the __Grading Summary__ section. 
+
+### Programming Assignments
+
+<table>
+  <thead>
+    <tr>
+      <th>Criteria</th>
+      <th colspan="6">Ratings</th>
+      <th>Points</th>
+    </tr>
+  </thead>
+  <tbody> 
+    <tr>
+      <td valign="top"><b>Completeness:</b><br>Describes the extent to which the assignment answered the questions in the assignment.</td> 
+      <td valign="top"><b>25 pts<br>Complete</b><br>Submission answered all questions.</td> 
+      <td valign="top"><b>20 pts<br>Almost Complete</b><br>Submission answered ≥90% of questions assigned.</td>
+      <td valign="top"><b>15 pts<br>Substantially Incomplete</b><br>Submission answered ≥70% of questions assigned.</td>
+      <td valign="top"><b>10 pts<br>Incomplete</b><br>Submission answered <70% of questions assigned.</td>
+      <td valign="top"><b>5 pts<br>No Submission w/Notice</b><br>Student notified instructors of a non-submission 48hrs in advance of due date.</td>
+      <td valign="top"><b>0 pts<br>No Submission</b></td>
+      <td valign="top">25 pts</td>
+    </tr>
+    <tr>
+      <td valign="top"><b>Correctness:</b><br>Describes the extent to which the assignment arrives at the correct answer to assigned questions.</td> 
+      <td valign="top"><b>25 pts<br>Exemplary</b><br>Results are correct and clearly presented; charts are well-labeled and appropriate; explanatory text clearly and concisely tells the story with appropriate context and analysis; organization makes it easy to review.</td> 
+      <td valign="top"><b>20 pts<br>Basically Correct</b><br>The assignment comes to correct (or defensible) results and conclusions, but the presentation is not easy to follow and/or portions are not clear or lack context or labels.</td>
+      <td valign="top"><b>15 pts<br>Right Idea</b><br>The approach is appropriate, but the work has mistakes in code, analysis, or presentation that undermine the correctness of conclusions.</td>
+      <td valign="top"><b>10 pts<br>Solid Start</b><br>The work makes a good start, but has fundamental conceptual problems in code, analysis, or presentation such that it will not produce legitimate results.</td>
+      <td valign="top"><b>5 pts<br>Did Something</b><br>The solution began an attempt, but is either insufficiently complete to assess correctness or is on entirely the wrong track.</td>
+      <td valign="top"><b>0 pts<br>No Submission</b></td>
+      <td valign="top">25 pts</td>
+    </tr>
+    <tr>
+      <td align="right" colspan="8"><b>Total Points: 50</b></td>
+    </tr>
+  </tbody>
+</table>
+
+### Module-end Reflection
+
+<table>
+  <thead>
+    <tr>
+      <th>Criteria</th>
+      <th colspan="6">Ratings</th>
+      <th>Points</th>
+    </tr>
+  </thead>
+  <tbody> 
+    <tr>
+      <td valign="top"><b>Content</b><br></td> 
+      <td valign="top"><b>5 pts<br>Excellent</b><br>Reflection is thoughtful and answers all prompts.</td> 
+      <td valign="top"><b>4 pts<br>Very Good</b><br>Reflection is thoughtful and answers almost all prompts.</td>
+      <td valign="top"><b>3 pts<br>Good</b><br>Reflection may be cursory and may not address one or more prompts.</td>
+      <td valign="top"><b>2 pts<br>Fair</b><br>Reflection is cursory, but in full sentences, and does not address prompts.</td>
+      <td valign="top"><b>1 pts<br>Poor</b><br>Reflection is incomplete and not in complete sentences.</td>
+      <td valign="top"><b>0 pts<br>Not Submitted</b>Reflection not completed</td>
+      <td valign="top">5 pts</td>
+    </tr>
+    <tr>
+      <td align="right" colspan="8"><b>Total Points: 5</b></td>
+    </tr>
+  </tbody>
+</table>
+
+### Modeling Term Project
+
+<table>
+  <thead>
+    <tr>
+      <th>Criteria</th>
+      <th colspan="5">Ratings</th>
+      <th>Points</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top"><b>Introduction</b></td> 
+      <td valign="top"><b>20 pts<br>Excellent</b><br>Describes the scientific or engineering modeling challenge concisely. The challenge described is contemporarily relevant. References includes are relevant, contemporary, and appropriate.</td>
+      <td valign="top"><b>15 pts<br>Very Good</b><br>Describes the scientific or engineering modeling challenge concisely. The challenge described is relevant. References includes are relevant and appropriate.</td>
+      <td valign="top"><b>10 pts<br>Good</b><br>Describes the scientific or engineering modeling challenge. There may be some mismatch between the challenge and the model relevance. May be poorly referenced.</td>
+      <td valign="top"><b>5 pts<br>Fair</b><br>Scientific or engineering modeling challenge is poorly describe, not relevant, or not contemporary. References are either inappropriate to the problem or not included.</td>
+      <td valign="top"><b>0 pts<br>Poor</b>It is not clear that what is submitted is an introduction</td>
+      <td valign="top">20 pts</td>
+    </tr>
+    <tr>
+      <td valign="top"><b>Model Description</b></td> 
+      <td valign="top"><b>20 pts<br>Excellent</b><br>Description of model is concise, accurate, and clearly linked to processes. Uses of the model for similar applications are described and referenced. A conceptual figure is present and appropriately cited.</td>
+      <td valign="top"><b>15 pts<br>Very Good</b><br>Description of model is concise, accurate, and clearly linked to processes. Uses of the model for similar applications may be absent. A conceptual figure is missing or not cited.</td>
+      <td valign="top"><b>10 pts<br>Good</b><br>Model may not be described concisely, accurately, or linked to processes. Uses of the model for similar applications are missing. No conceptual figure.</td>
+      <td valign="top"><b>5 pts<br>Fair</b><br>Model is not described in ways that clearly link it to scientific application.</td>
+      <td valign="top"><b>0 pts<br>Poor</b>Model description is missing.</td>
+      <td valign="top">20 pts</td>
+    </tr>
+    <tr>
+      <td valign="top"><b>Data Needs</b></td> 
+      <td valign="top"><b>20 pts<br>Excellent</b><br>Needs for input data and description of output data format are clearly described in terms of format and type. Appropriate sources of input datasets are provided.</td>
+      <td valign="top"><b>15 pts<br>Very Good</b><br>Input data needs and output data are clearly described in terms of format and type. Appropriate sources of input datasets may be missing.</td>
+      <td valign="top"><b>10 pts<br>Good</b><br>Input data needs and output data are described, but may be unclear. Appropriate sources of input datasets are missing.</td>
+      <td valign="top"><b>5 pts<br>Fair</b><br>Input data needs and output data are unclear or missing in parts. Appropriate sources of input datasets are missing.</td>
+      <td valign="top"><b>0 pts<br>Poor</b>Data needs not specified.</td>
+      <td valign="top">20 pts</td>
+    </tr>
+    <tr>
+      <td valign="top"><b>Calibration</b></td> 
+      <td valign="top"><b>20 pts<br>Excellent</b><br>Variables requiring calibration that are appropriate to the problem identified. Target variables and observational datasets are identified. Prior appropriate calibration studies are referenced.</td>
+      <td valign="top"><b>15 pts<br>Very Good</b><br>Variables requiring calibration that are appropriate to the problem identified. Target variables and observational datasets are identified.</td>
+      <td valign="top"><b>10 pts<br>Good</b><br>Variables requiring calibration that are appropriate to the problem identified. Target variables are identified. Observational datasets used in calibration not identified.</td>
+      <td valign="top"><b>5 pts<br>Fair</b><br>Variables requiring calibration are identified but are not appropriate to the problem. Target variables and observational datasets not identified or inappropriate.</td>
+      <td valign="top"><b>0 pts<br>Poor</b>Calibration of model not discussed or most details absent.</td>
+      <td valign="top">20 pts</td>
+    </tr>  
+    <tr>
+      <td valign="top"><b>Numerical Experiment Design</b></td> 
+      <td valign="top"><b>20 pts<br>Excellent</b><br>Numerical experiment is well designed, appropriate to the problem, and its rationale described. The experiment may extend other, referenced studies.</td>
+      <td valign="top"><b>15 pts<br>Very Good</b><br>Numerical experiment is well designed, appropriate to the problem, although its rationale may be lacking. The experiment may extend other, unreferenced studies.</td>
+      <td valign="top"><b>10 pts<br>Good</b><br>Numerical experiment design is unclear or appears unconnected to the problem, Rationale may be unclear.</td>
+      <td valign="top"><b>5 pts<br>Fair</b><br>Numerical experiment design is poorly designed and unconnected to the problem, Rationale is missing.</td>
+      <td valign="top"><b>0 pts<br>Poor</b>Numerical experiment design is missing.</td>
+      <td valign="top">20 pts</td>
+    </tr>
+    <tr>
+      <td align="right" colspan="7"><b>Total Points:100</b></td>
+    </tr>
+  </tbody>
+</table>
