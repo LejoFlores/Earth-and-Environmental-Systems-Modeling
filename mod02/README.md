@@ -1,4 +1,4 @@
-# Module 02 Code
+# Module 02 Code: Box Modeling
 
 ## Content
 

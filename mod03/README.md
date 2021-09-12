@@ -1,4 +1,6 @@
-# mod03: 1-D Diffusion Problems
+# Module 03 Code: 1-D Diffusion Problems
+
+## Content
 
 In this folder you will find the following Jupyter notebooks for review simulation of 1-D diffusive problems using:
 
