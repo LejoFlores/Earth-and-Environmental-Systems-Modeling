@@ -55,7 +55,7 @@ The report itself __must__ have the sections outlined below. Subsections may be 
         </tr>
         <tr>
             <td>References</td>
-            <td>Provide citations for all papers, reports, manuals, presentations used. Use the style guide of the [American Geophysical Union](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Grammar-Style-Guide) for references</td>
+            <td>Provide citations for all papers, reports, manuals, presentations used. Use the style guide of the <a href="https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Grammar-Style-Guide">American Geophysical Union</a> for references</td>
             <td>As needed</td>
         </tr>
     </tbody>
