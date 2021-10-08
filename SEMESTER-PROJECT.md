@@ -15,7 +15,7 @@ During this project you will:
 Note: ___You will not need to setup, run, or perform your numerical experiment as a requirement of the project.___ However, this project could be a valuable tool to kickstart any modeling activities required for your thesis or dissertation. As such, I ___highly___ encourage you to consult with your advisor(s) and me when choosing a model. 
 
 ## Requirements
-This project will be submitted as a Markdown (e.g., `PROJECT.md`) file in your GitHub repository for the class. Other acceptable formats include Jupyter Notebooks with extensive Markdown editing and PDF files generated in $\LaTeX$. In any case, the URL where your final writeup is posted in your GitHub repo for the class is what will be submitted. 
+This project will be submitted as a Markdown (e.g., `PROJECT.md`) file in your GitHub repository for the class. Other acceptable formats include Jupyter Notebooks with extensive Markdown editing and PDF files generated in $$\LaTeX$$. In any case, the URL where your final writeup is posted in your GitHub repo for the class is what will be submitted. 
 
 The report itself __must__ have the sections outlined below. Subsections may be used if needed, but should be numbered hierarchically within a section (e.g., the first subsection within section 3, should be 3.1) and should be labeled or titled. Based on the guidelines for length, the complete writeup would be no more than ~5-10 pages of 1.5 spaced text. 
 
