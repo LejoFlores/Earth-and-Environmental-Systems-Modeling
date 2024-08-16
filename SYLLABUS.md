@@ -4,7 +4,7 @@
 
 ### Instructor:
 Dr. Alejandro (Lejo) Flores (he/him)  
-Office Hours: Mondays 12-1:30pm in Geosciences Learning Hub  
+Office Hours: Mondays 12-1:30pm in Geosciences Learning Hub (ERB 2102)
 Email: [lejoflores@boisestate.edu](lejoflores@boisestate.edu)  
 
 ### Teaching Assistant:
@@ -18,7 +18,7 @@ Email: [owenwalsh@u.boisestate.edu](owenwalsh@u.boisestate.edu)
 Computational models are tools used to describe, predict, and reveal new understanding about Earth and environmental systems. Develops the mindset and skills needed to apply, develop, and diagnose models of Earth and environmental processes. Knowledge and skills developed allow students to appraise existing models in the context of specific problems. Particular attention is paid to modeling hydrologic, geomorphic, atmospheric, critical zone, and ecological processes.
 
 ### Required Textbook:
-The following textbook is required for the class. It is fairly easy to find and reasonably priced: 
+The following textbook is optional for the class. It is fairly easy to find and reasonably priced: 
 
  * _Slingerland, Rudy and Kump, Lee_ (2011), Mathematical Modeling of Earth's Dynamical Systems: A Primer, Princeton University Press, 248 pp. | [Buy on Bookstore.org](https://bookshop.org/books/mathematical-modeling-of-earth-s-dynamical-systems-a-primer/9780691145143) | [Buy on Amazon.com](https://www.amazon.com/Mathematical-Modeling-Earths-Dynamical-Systems/dp/0691145148) | 
 
