@@ -1,17 +1,16 @@
-# Syllabus<br>GEOS 518: Modeling Earth and Environmental Systems (Fall 2021)
+# Syllabus<br>GEOS 518: Modeling Earth and Environmental Systems (Fall 2024)
 
 --- 
 
 ### Instructor:
 Dr. Alejandro (Lejo) Flores (he/him)  
-Phone: 208.426.2903  
-Office Hours: (via Zoom: see Canvas for link)  
+Office Hours: Mondays 12-1:30pm in Geosciences Learning Hub  
 Email: [lejoflores@boisestate.edu](lejoflores@boisestate.edu)  
 
 ### Teaching Assistant:
-William Rudisill (he/him)  
-Office Hours: (via Zoom: see Canvas for link)  
-Email: [williamrudisill@u.boisestate.edu](williamrudisill@u.boisestate.edu)  
+Owen Walsh 
+Office Hours: TBD 
+Email: [owenwalsh@u.boisestate.edu](owenwalsh@u.boisestate.edu)  
 
 ---
 
@@ -62,9 +61,6 @@ Cheating or plagiarism in any form is unacceptable. All work submitted by a stud
 
 ### Educational Access for All Students:
 Students with additional educational and access needs are encouraged to contact the proper resource as early as possible (Boise State Educational Access Center; [https://www.boisestate.edu/eac/](https://www.boisestate.edu/eac/)). The EAC assists Boise State staff and faculty in meeting accommodations mandated by Federal and State law and University policy. They will work with you to identify and document physical and learning needs and identify  appropriate accommodations for a student in their courses.
-
-### COVID-19 Guidelines:
-As of August 2021, the COVID-19 pandemic situation is evolving rapidly in the United States and Idaho. On August 11, 2021, the university reinstated a requirement that facial coverings be worn in all campus buildings, including classrooms. Should conditions become more favorable, it is possible that we may revert to a situation in which masks are strongly encouraged. ___In-person classes are not allowed to proceed without everyone in the classroom having appropriate facial coverings that cover the nose and mouth.___ Note that facial coverings with a vent are not suitable for protecting others and should not be used. Please ask me if you need help in obtaining masks. For everyone's safety I will be monitoring facial coverings during class to be sure they continue to be worn properly throughout the class (e.g., not slipped below the nose). Please regularly check the University's [COVID 19 Response website](https://www.boisestate.edu/coronavirus-response/) for updates. There is also a site with [Fall 2021 COVID-19 FAQs](https://www.boisestate.edu/coronavirus-response/health-guidelines/frequently-asked-questions-fall-2021/).
 
 ---
 
