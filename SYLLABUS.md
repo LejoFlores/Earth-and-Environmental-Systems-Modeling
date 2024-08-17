@@ -40,7 +40,7 @@ If you have experience in installing scientific computing software, or feel conf
 __A note on Integrated Development Environments (IDEs).__ Some students, particularly those having familiarity with Matlab, will find IDEs helpful to aid in the transition from Matlab to Python. A number of IDEs are available for development in Python, some of which come bundled with installers like `Anaconda`. These can be helpful in providing an experience that is familiar but, in my experience, can often lead users to develop less-than-helpful habits as scientific programmers. We will using primarily Jupyter notebooks, which allow you to program and intersperse blocks of code with descriptive text and are used exclusively in a browsered environment. Please try to stick with the Jupyter notebook computing environment (you will be required to submit assignments as Jupyter notebooks), even though it may seem a bit foreign at first. 
 
 ### Course Expectations:
-This class has a mixed structure wherein the Tuesday class will be primarily lecture and the Thursday class with be a coding workshop. In the Thursday coding lab we will review example code that I have developed for each topic we cover in the class. Depending on how well you are able to understand, execute, and modify the example code you may also have time to get started on the associated assignment for each module.  
+This class has a mixed structure wherein the Monday class will be primarily lecture and the Wednesday class with be a coding workshop. In the Wednesday coding lab we will review example code that I have developed for each topic we cover in the class. Depending on how well you are able to understand, execute, and modify the example code you may also have time to get started on the associated assignment for each module.  
 
 We will develop community expectations as a class, but it is important that we cultivate and maintain an inclusive and supportive environment. As such we will adhere to the Code of Conduct developed by the Software Carpentry Foundation that can be found at [https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
 
@@ -68,21 +68,19 @@ Students with additional educational and access needs are encouraged to contact 
 
 | Component | Proportion of Grade |
 | --- | --- |
-| Online Reading Quizzes | 15% |
-| Jupyter Notebook Assignments | 60% |
-| Module-end Reflection | 5% |
-| Modeling Project | 20% |
+| Notebook Assignments | 40% |
+| Notebook Reflection | 40% |
+| Model Investigation Project | 20% |
 
-#### Online Reading Quizzes (15%)
-Quizzes are designed as a formative assessment to check how well you understand the required reading. Reading ensures that we're starting out from a common starting point when you come to lecture. As much as it is important to read materials to acquire new knowledge and skills, it is just as important to identify topics and concepts that are still uncertain after reading. Those concepts that remain difficult to you after reading are likely difficult for other students and, therefore, opportunities for diving deeper as a class and exploring through activities and exercises. Each quiz is 10 questions and you may take each quiz twice. The recorded score will always be the final score (i.e., not the highest - think about whether you really want to retake the quiz to get 1 additional point). Quizzes are open-book but not collaborative. You are responsible for checking the schedule on Canvas and keeping up with deadlines. Make sure you are using a reliable Internet connection. Your lowest quiz score will be dropped before final grades are calculated.  
+#### Jupyter Notebook Programming Assignments (40%)
+A significant part of your grade will be based on programming assignments in which you will use and/or build simple models of environmental processes and use them to explore topics being covered in the class. There will be approximately one programming assignment for each module of the class (there are approximately 9 modules) and the assignments will be complete when you post them as a Jupyter Notebook (`.ipynb` extension) on your own GitHub account and submit the link to the notebook on Canvas. For those unfamiliar with Jupyter and GitHub, we will provide a number of resources to help you get familiar and up and running with them. Generally you will copy a template assignment notebook from the class repository into a GitHub repository of your choice. That template will have instructions (and potentially some code) that is designed to lead you through the notebook assignment. __Note:__ Once you complete this class, you _could_ have a GitHub repository with all your submitted Jupyter Notebooks for the class that can serve to illustrate your computational skills to potential employers.  
 
-#### Jupyter Notebook Assignments (60%)
-The most significant part of your grade will be based on programming assignments in which you will use and/or build simple models of environmental processes and use them to explore topics being covered in the class. There will be one assignment for each module of the class (there are approximately 9 modules) and the assignments will be complete when you post them as a Jupyter Notebook (`.ipynb` extension) on your own GitHub account and submit the link to the notebook on Canvas. For those unfamiliar with Jupyter and GitHub, we will provide a number of resources to help you get familiar and up and running with them. Generally you will clone a template assignment notebook from the class repository into a GitHub repository of your choice. That template will have instructions (and potentially some code) that is designed to lead you through the notebook assignment. __Note:__ Once you complete this class, you _could_ have a GitHub repository with all your submitted Jupyter notebooks for the class that can serve to illustrate your computational skills to potential employers.  
+For this component of the class grade, your assessment is based on completeness of the submitted notebookby the due date. Correctness will not be graded, but you may receive comments on the correctness. Each notebook assignment is weighted equally. __Late notebook submissions__: Notebooks can be submitted up to 3 days late for 50% credit and up to 7 days late for 25% credit. 
 
-#### Module-end Reflection (5%)
-At the end of each module of the class (there are approximately 9 modules) there is a short reflection that you will be required to complete. The reflection takes the form of 3 questions to which you will respond in Canvas. The reflection is designed as a prompt to pause, actively reflect on things like what you learned/struggled with/improved on during the module activities (e.g., reading, lecture, assignments, etc.) and record them. If you invest in them, these reflections can be invaluable tools for you to assess your own learning progress and ensure that you are getting what you need/want out of the class. Responses to reflection prompts need not be long, but should be thoughtful and authentic.   
+#### Jupyter Notebook Reflection (40%)
+After all notebooks have been submitted, I will send the class the assignment key in the form of the completed Jupyter Notebook (as a side note, your assignments are often created by coding the keys first and then deleting code and cells to provide you hints). The reflection component of the grade is based on your comparison of the key to the code you submitted. You will be prompted to: (1) compare and contrast your code with that of the key, (2) outline what you would have done differently based on that comparison, and (3) discuss more broadly what new skills and knowledge you acquired by completing the assignment. The reflection is an opportunity for you to actively reflect on what you learned/struggled with/improved on during the assignment. If you invest in them, these reflections can be invaluable tools for you to assess your own learning progress and ensure that you are getting what you need/want out of the class. 
 
-#### Modeling Project (20%)
+#### Modeling Investigation Project (20%)
 You will also have a modeling project for the class. The purpose of this modeling project is for you to explore an existing model of interest to your professional development and/or research. During this project you will: (1) select a model for further study, (2) examine key details of the Earth and environmental processes that it models in the context of topics we cover in the class, (3) review the data needed to characterize initial and boundary conditions for the model, (4) investigate procedures and data needs for calibration/validation, and (5) design a numerical experiment to test a scientific hypothesis or perform a specific analysis. ___You will not need to setup, run, or perform your numerical experiment as a requirement of the project.___ However, this project could be a valuable tool to kickstart any modeling activities required for your thesis or dissertation. As such, I ___highly___ encourage you to consult with your advisor(s) and me when choosing a model. This project will be submitted as a Markdown (e.g., `PROJECT.md`) file in your GitHub repository for the class.   
 
 --- 
@@ -132,6 +130,7 @@ Below are the Course Learning Outcomes (CLO) that we will achieve in the class. 
   * Create a model that solves the advection equation
   * List several processes that could be approximated as an advection-dispersion process
   * Create a model that solves the advection-dispersion equation
+  * Describe the purpose of surrogate modeling/emulation with machine learning methods
 
 </details> 
 
@@ -180,16 +179,6 @@ Below are the grading rubrics for the Jupyter notebook assignments, module-end r
       <td valign="top"><b>15 pts<br>Substantially Incomplete</b><br>Submission answered ≥70% of questions assigned.</td>
       <td valign="top"><b>10 pts<br>Incomplete</b><br>Submission answered <70% of questions assigned.</td>
       <td valign="top"><b>5 pts<br>No Submission w/Notice</b><br>Student notified instructors of a non-submission 48hrs in advance of due date.</td>
-      <td valign="top"><b>0 pts<br>No Submission</b></td>
-      <td valign="top">25 pts</td>
-    </tr>
-    <tr>
-      <td valign="top"><b>Correctness:</b><br>Describes the extent to which the assignment arrives at the correct answer to assigned questions.</td> 
-      <td valign="top"><b>25 pts<br>Exemplary</b><br>Results are correct and clearly presented; charts are well-labeled and appropriate; explanatory text clearly and concisely tells the story with appropriate context and analysis; organization makes it easy to review.</td> 
-      <td valign="top"><b>20 pts<br>Basically Correct</b><br>The assignment comes to correct (or defensible) results and conclusions, but the presentation is not easy to follow and/or portions are not clear or lack context or labels.</td>
-      <td valign="top"><b>15 pts<br>Right Idea</b><br>The approach is appropriate, but the work has mistakes in code, analysis, or presentation that undermine the correctness of conclusions.</td>
-      <td valign="top"><b>10 pts<br>Solid Start</b><br>The work makes a good start, but has fundamental conceptual problems in code, analysis, or presentation such that it will not produce legitimate results.</td>
-      <td valign="top"><b>5 pts<br>Did Something</b><br>The solution began an attempt, but is either insufficiently complete to assess correctness or is on entirely the wrong track.</td>
       <td valign="top"><b>0 pts<br>No Submission</b></td>
       <td valign="top">25 pts</td>
     </tr>
