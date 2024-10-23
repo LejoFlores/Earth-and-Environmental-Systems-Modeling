@@ -20,5 +20,5 @@ A related use of emulators is when we need to calibrate some parameters of the m
 That's what we will be doing in this module. This module consists of three notebooks:
 
 1. [`mod09-Snow17-ensemble-run.ipynb`](./mod09-Snow17-ensemble-run.ipynb): A notebook that sets up and executes a number of runs with the Snow-17 model in the East River watershed in Colorado for a user-defined number of parameter combinations and ranges of parameters. The output of this notebook is a set of simulated SWE time series for each parameter combination.
-2. ['mod09-Snow17-xgb-emulator-training.ipynb](./mod09-Snow17-xgb-emulator-training.ipynb): A notebook that takes the output from the Snow-17 model runs, trains an ensemble of weak learners ML emulator, and evaluates the emulator against Snow-17 simulations that were not used in the training process.
-3. ['mod09-Snow17-NN-emulator-training.ipynb'](./mod09-Snow17-NN-emulator-training.ipynb): A notebook similar to the one above, but that uses a neural network-based ML model, instead.
+2. [`mod09-Snow17-xgb-emulator-training.ipynb`](./mod09-Snow17-xgb-emulator-training.ipynb): A notebook that takes the output from the Snow-17 model runs, trains an ensemble of weak learners ML emulator, and evaluates the emulator against Snow-17 simulations that were not used in the training process.
+3. [`mod09-Snow17-NN-emulator-training.ipynb`](./mod09-Snow17-NN-emulator-training.ipynb): A notebook similar to the one above, but that uses a neural network-based ML model, instead.
