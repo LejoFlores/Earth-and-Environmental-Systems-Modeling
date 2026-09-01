@@ -1,23 +1,18 @@
-# Syllabus<br>GEOS 518: Modeling Earth and Environmental Systems (Fall 2024)
+# Syllabus<br>GEOS 518: Modeling Earth and Environmental Systems (Fall 2026)
 
 --- 
 
 ### Instructor:
 Dr. Alejandro (Lejo) Flores (he/him)  
-Office Hours: Mondays 12-1:30pm in Geosciences Learning Hub (ERB 2102)
+Office Hours: Tuesday/Thursday 2-4pm [Schedule 30 min. meeting here](https://calendar.app.google/Nim6p2p5jknwaEsH9)
 Email: [lejoflores@boisestate.edu](lejoflores@boisestate.edu)  
-
-### Teaching Assistant:
-Owen Walsh 
-Office Hours: TBD 
-Email: [owenwalsh@u.boisestate.edu](owenwalsh@u.boisestate.edu)  
 
 ---
 
 ### Course Description:
 Computational models are tools used to describe, predict, and reveal new understanding about Earth and environmental systems. Develops the mindset and skills needed to apply, develop, and diagnose models of Earth and environmental processes. Knowledge and skills developed allow students to appraise existing models in the context of specific problems. Particular attention is paid to modeling hydrologic, geomorphic, atmospheric, critical zone, and ecological processes.
 
-### Required Textbook:
+### Optional Textbook:
 The following textbook is optional for the class. It is fairly easy to find and reasonably priced: 
 
  * _Slingerland, Rudy and Kump, Lee_ (2011), Mathematical Modeling of Earth's Dynamical Systems: A Primer, Princeton University Press, 248 pp. | [Buy on Bookstore.org](https://bookshop.org/books/mathematical-modeling-of-earth-s-dynamical-systems-a-primer/9780691145143) | [Buy on Amazon.com](https://www.amazon.com/Mathematical-Modeling-Earths-Dynamical-Systems/dp/0691145148) | 
@@ -68,8 +63,8 @@ Students with additional educational and access needs are encouraged to contact 
 
 | Component | Proportion of Grade |
 | --- | --- |
-| Notebook Assignments | 40% |
-| Notebook Reflection | 40% |
+| Notebook Assignments | 60% |
+| Notebook Peer Review | 20% |
 | Model Investigation Project | 20% |
 
 #### Jupyter Notebook Programming Assignments (40%)
@@ -77,8 +72,8 @@ A significant part of your grade will be based on programming assignments in whi
 
 For this component of the class grade, your assessment is based on completeness of the submitted notebookby the due date. Correctness will not be graded, but you may receive comments on the correctness. Each notebook assignment is weighted equally. __Late notebook submissions__: Notebooks can be submitted up to 3 days late for 50% credit and up to 7 days late for 25% credit. 
 
-#### Jupyter Notebook Reflection (40%)
-After all notebooks have been submitted, I will send the class the assignment key in the form of the completed Jupyter Notebook (as a side note, your assignments are often created by coding the keys first and then deleting code and cells to provide you hints). The reflection component of the grade is based on your comparison of the key to the code you submitted. You will be prompted to: (1) compare and contrast your code with that of the key, (2) outline what you would have done differently based on that comparison, and (3) discuss more broadly what new skills and knowledge you acquired by completing the assignment. The reflection is an opportunity for you to actively reflect on what you learned/struggled with/improved on during the assignment. If you invest in them, these reflections can be invaluable tools for you to assess your own learning progress and ensure that you are getting what you need/want out of the class. 
+#### Jupyter Notebook Peer Review (20%)
+After all notebooks have been submitted,  
 
 #### Modeling Investigation Project (20%)
 You will also have a modeling project for the class. The purpose of this modeling project is for you to explore an existing model of interest to your professional development and/or research. During this project you will: (1) select a model for further study, (2) examine key details of the Earth and environmental processes that it models in the context of topics we cover in the class, (3) review the data needed to characterize initial and boundary conditions for the model, (4) investigate procedures and data needs for calibration/validation, and (5) design a numerical experiment to test a scientific hypothesis or perform a specific analysis. ___You will not need to setup, run, or perform your numerical experiment as a requirement of the project.___ However, this project could be a valuable tool to kickstart any modeling activities required for your thesis or dissertation. As such, I ___highly___ encourage you to consult with your advisor(s) and me when choosing a model. This project will be submitted as a Markdown (e.g., `PROJECT.md`) file in your GitHub repository for the class.   
