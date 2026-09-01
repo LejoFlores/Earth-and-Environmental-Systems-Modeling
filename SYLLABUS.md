@@ -183,7 +183,7 @@ Below are the grading rubrics for the Jupyter notebook assignments, module-end r
   </tbody>
 </table>
 
-### Module-end Reflection
+### Module-end Peer Review
 
 <table>
   <thead>
@@ -196,16 +196,16 @@ Below are the grading rubrics for the Jupyter notebook assignments, module-end r
   <tbody> 
     <tr>
       <td valign="top"><b>Content</b><br></td> 
-      <td valign="top"><b>50 pts<br>Excellent</b><br>Reflection is thoughtful and answers all prompts.</td> 
-      <td valign="top"><b>40 pts<br>Very Good</b><br>Reflection is thoughtful and answers almost all prompts.</td>
-      <td valign="top"><b>30 pts<br>Good</b><br>Reflection may be cursory and may not address one or more prompts.</td>
-      <td valign="top"><b>20 pts<br>Fair</b><br>Reflection is cursory, but in full sentences, and does not address prompts.</td>
-      <td valign="top"><b>10 pts<br>Poor</b><br>Reflection is incomplete and not in complete sentences.</td>
-      <td valign="top"><b>0 pts<br>Not Submitted</b>Reflection not completed</td>
-      <td valign="top">50 pts</td>
+      <td valign="top"><b>25 pts<br>Excellent</b><br>Peer review is thoughtful and provides concrete suggestions.</td> 
+      <td valign="top"><b>20 pts<br>Very Good</b><br>Peer review is thoughtful and provides some suggestions</td>
+      <td valign="top"><b>15 pts<br>Good</b><br>Peer review may be cursory and may not provide any suggestions</td>
+      <td valign="top"><b>10 pts<br>Fair</b><br>Peer review is cursory, but in full sentences, but provides no suggestions.</td>
+      <td valign="top"><b>5 pts<br>Poor</b><br>Peer review is incomplete and not in complete sentences.</td>
+      <td valign="top"><b>0 pts<br>Not Submitted</b>Peer review not completed</td>
+      <td valign="top">25 pts</td>
     </tr>
     <tr>
-      <td align="right" colspan="8"><b>Total Points: 50</b></td>
+      <td align="right" colspan="8"><b>Total Points: 25</b></td>
     </tr>
   </tbody>
 </table>
