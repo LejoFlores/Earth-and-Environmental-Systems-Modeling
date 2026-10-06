@@ -6,4 +6,5 @@ This is the repository for the Fall 2026 instance of GEOS 518: Modeling Earth an
 
 Particularly important materials provided here include:
 * The class [syllabus](./SYLLABUS.md)
+* [Setup instructions](./SETUP.md) for building the class Python environment (`environment.yml`) and using it in VS Code
 

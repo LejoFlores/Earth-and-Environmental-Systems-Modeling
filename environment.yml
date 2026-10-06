@@ -1,0 +1,27 @@
+# Conda environment for GEOS 518: Modeling Earth and Environmental Systems
+#
+# Create:  conda env create -f environment.yml
+# Update:  conda env update -f environment.yml --prune
+# Student setup instructions (including VS Code): see SETUP.md
+#
+# All course notebooks were last verified in October 2026 with Python 3.13,
+# NumPy 2.5, SciPy 1.18, pandas 3.0, Matplotlib 3.11, scikit-learn 1.9,
+# and XGBoost 3.4.
+name: geos518
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.13
+  # Core scientific stack
+  - numpy>=2.0
+  - scipy>=1.14
+  - pandas>=2.2
+  - matplotlib>=3.9
+  # Machine learning (Module 09)
+  - scikit-learn
+  - xgboost
+  # Jupyter: ipykernel lets VS Code run notebooks; JupyterLab runs them in a browser
+  - ipykernel
+  - jupyterlab
+  - pip
